@@ -1,4 +1,4 @@
-<h1>JSales Data Prediction</h1>
+<h1>Sales Data Prediction</h1>
 
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=vDlSyDkMjTE&ab_channel=syed.salmasultana)
 
